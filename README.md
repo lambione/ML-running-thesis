@@ -56,6 +56,7 @@ OVERALL COMMENTS :
     - MODEL ACTUALLY PERFORM ON UNSEEN DATA!!
 
     - You can check all in relative section both in multioutputtrees and linearregression jupyters (name are very intuitive soyou should be able to understand under which sections everything is placed)
+    -Just to note : The analysis is based on tree5,rf5,extra5 under section 'REQUESTED BY VALENTINA'
 
     - Thankss in advance!!
 
@@ -64,7 +65,7 @@ OVERALL COMMENTS :
 
 
 
-**OLD**
+**OLD STUFF COMPLETED USELESS NOW**
 
 
 OLD PER VALENTINA AND TO KEEP TRACK OF WHAT HAS BEEN DONE
